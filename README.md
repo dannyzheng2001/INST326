@@ -1,2 +1,2 @@
-# friendly-carnival
+# INST326
 Git Exercise
